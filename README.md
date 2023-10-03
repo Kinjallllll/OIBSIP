@@ -19,12 +19,15 @@ To access and run the project notebooks, follow these steps:
 1 Clone the repository using the following command:
 
 git clone https://github.com/Kinjallllll/OIBSIP.git
+
 2 Navigate to the project directory:
 
 cd OIBSIP
+
 3 Launch Jupyter Notebook:
 
 jupyter notebook
+
 4 Open the desired project notebook (e.g., Iris_Flower_Classification.ipynb) and run the cells to explore the analysis and results.
 
 # About Oasis Infobyte

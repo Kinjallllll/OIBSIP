@@ -23,7 +23,7 @@ To access and run the project notebooks, follow these steps:
 
 1. Clone the repository using the following command:
    ```
-   git clone https://github.com/RaviVishwakarma11/OIBSIP.git
+   git clone https://github.com/Kinjallllll/OIBSIP.git
    ```
 
 2. Navigate to the project directory:
@@ -45,8 +45,8 @@ Oasis Infobyte is a dynamic technology company that provides various IT solution
 ## Contact Information
 
 For inquiries about the projects or internship, feel free to contact us at:
-- Email: ravi.vishwakarma141102@gmail.com
-- LinkedIn:linkedin.com/in/ravi-vishwakarma-8bb944270
+- Email: kinjalsanap69@gmail.com
+- LinkedIn:https://www.linkedin.com/in/kinjal-sanap-2a5692284/
 
 We appreciate your interest and hope you find these projects insightful and informative!
 ```

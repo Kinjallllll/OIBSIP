@@ -2,14 +2,16 @@
 Welcome to the "OIBSIP" repository, which contains a collection of data science projects completed during the Data Science Internship at Oasis Infobyte. This repository showcases the practical skills and knowledge gained throughout the internship, covering a variety of topics in data analysis, machine learning, and predictive modeling.
 # Projects
 # 1. Iris Flower Classification
-File: C:\Users\Kinjal\Downloads\OIBSIP-main\OIBSIP-main
+File: Iris_Flower_Classification.ipynb
 
 Description: This project focuses on the classic Iris flower dataset, aiming to classify different species of iris flowers based on their features. The notebook explores data preprocessing, exploratory data analysis, and the implementation of machine learning algorithms for classification.
 # 2. Unemployment Analysis
 File: Unemployment_Analysis.ipynb
+
 Description: In this project, we analyze unemployment trends using relevant datasets. The notebook includes data visualization, statistical analysis, and interpretation to gain insights into unemployment patterns and potential influencing factors.
 # 3. Car Price Prediction
 File: Car_Price_Prediction.ipynb
+
 Description: This project involves predicting car prices based on various features. The notebook covers data preprocessing, feature engineering, model selection, and evaluation. Machine learning techniques are applied to create a predictive model for estimating car prices.
 # Installation and Usage
 To access and run the project notebooks, follow these steps:

@@ -34,6 +34,8 @@ Oasis Infobyte is a dynamic technology company that provides various IT solution
 For inquiries about the projects or internship, feel free to contact us at:
 
 Email: kinjalsanap69@gmail.com
+
 LinkedIn:https://www.linkedin.com/in/kinjal-sanap-2a5692284/
+
 We appreciate your interest and hope you find these projects insightful and informative!
 
